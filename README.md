@@ -29,3 +29,5 @@ which can do higher-frequency PWM without needing any add-on board.
 
 
 Robin Amend wants to use an arcade joystick as the musician's user interface to control the system. It has 4 momentary mechanical switches. 
+
+see the coding process in the Wiki
