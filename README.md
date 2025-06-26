@@ -5,7 +5,7 @@ https://amendmusiccenter.com/assistive-technologies
 
 
 
-​​​​In 2018, Robin received a request for an adapted euphonium, from a student in Illinois. He asked the students at the Spokane Skill Center for help designing and building it.​
+​​​​In 2018, Robin received a request for an adapted euphonium, from a student in Illinois. He asked the students at the Spokane NEWTech Skill Center for help designing and building it.​
  ​
 
 ​​​​Our first prototype used an Adafruit 32u4 Feather board
